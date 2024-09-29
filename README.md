@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Machine Learning,Deep learning and IOT.
 
-- 👨‍💻 All of my projects are available at [[https://codebymateen.github.io](https://github.com/MuhammadBilal018?tab=projects)](https://github.com/MuhammadBilal018?tab=projects)
+- 👨‍💻 All of my projects are available at [[https://github.com/MuhammadBilal018?tab=projects](https://github.com/MuhammadBilal018?tab=projects)](https://github.com/MuhammadBilal018?tab=projects)
 
 - 📫 How to reach me **chbilalakram222@gmail.com**
 
