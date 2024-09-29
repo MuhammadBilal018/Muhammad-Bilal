@@ -1,3 +1,4 @@
+![logo](https://github.com/MuhammadBilal018/Muhammad-Bilal/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 <h3 align="center">Compiling my code... Please wait! 👀</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
