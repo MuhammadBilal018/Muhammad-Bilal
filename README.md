@@ -34,9 +34,9 @@
 ## Github Analytics
 
 <p align="center">
-	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codebymateen&layout=compact&langs_count=8&theme=algolia"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codebymateen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=codebymateen&show_icons=true&locale=en&layout=demo&theme=algolia"/>
+	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadBilal018&layout=compact&langs_count=8&theme=algolia"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadBilal018&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadBilal018&show_icons=true&locale=en&layout=demo&theme=algolia"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%2300BFFF&size=26&duration=2500&center=true&vCenter=true&lines=Glad+to+see+you+here!;Thanks+For+Visiting!;)](https://git.io/typing-svg)
