@@ -32,9 +32,7 @@
 <p align="left">
 <a href="https://www.python.org" target="_blank"><img src="assets/logos/download.png" alt="Python" width="50" height="50"/></a>
 <a href="https://crewai.com/" target="_blank"><img src="assets/logos/crewai-color.png" alt="Crewai" width="50" height="50"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-  <img src="assets/logos/fastapi.svg" alt="FastAPI" width="50" height="50"/>
-</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="assets/logos/fastapi.png" alt="FastAPI" width="50" height="50"/></a>
 <a href="https://www.langchain.com/" target="_blank"><img src="assets/logos/langchain-color.png" alt="LangChain" width="50" height="50"/></a>
 <a href="https://www.langgraph.com/" target="_blank"><img src="assets/logos/langgraph-color.png" alt="LangGraph" width="50" height="50"/></a>
 <a href="https://www.ragstack.com/" target="_blank"><img src="assets/logos/1538298822.png" alt="RAGs" width="50" height="50"/></a>
@@ -48,8 +46,11 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBilal018&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBilal018&layout=compact&langs_count=8&theme=algolia&hide=html,css,java"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadBilal018&show_icons=true&theme=algolia&include_all_commits=true"/>
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadBilal018&show_icons=true&locale=en&layout=demo&theme=algolia"/>
 </p>
 
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%2300BFFF&size=26&duration=2500&center=true&vCenter=true&lines=Glad+to+see+you+here!;Thanks+For+Visiting!;)](https://git.io/typing-svg)
