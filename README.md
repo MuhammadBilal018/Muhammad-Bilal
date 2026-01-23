@@ -58,3 +58,25 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadBilal018&layout=compact&langs_count=8&theme=algolia"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadBilal018&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadBilal018&show_icons=true&locale=en&layout=demo&theme=algol_
+## Languages and Tools 
+
+<p align="left">
+<!-- Programming Language -->
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+
+<!-- Backend -->
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-%2300ACC1.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" width="100" height="40"/></a>
+
+<!-- AI / ML -->
+<a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge&logo=python&logoColor=white" alt="LangChain" width="100" height="40"/></a>
+<a href="https://www.langgraph.com/" target="_blank"><img src="https://img.shields.io/badge/LangGraph-00AAFF?style=for-the-badge&logo=python&logoColor=white" alt="LangGraph" width="100" height="40"/></a>
+<a href="https://crewai.com/" target="_blank"><img src="https://img.shields.io/badge/Crewai-FF0066?style=for-the-badge&logo=python&logoColor=white" alt="Crewai" width="100" height="40"/></a>
+<a href="https://agentic.ai/" target="_blank"><img src="https://img.shields.io/badge/AgenticAI-0066FF?style=for-the-badge&logo=python&logoColor=white" alt="AgenticAI" width="100" height="40"/></a>
+<a href="https://chatbots.org/" target="_blank"><img src="https://img.shields.io/badge/Chatbots-00CC99?style=for-the-badge&logo=python&logoColor=white" alt="Chatbots" width="100" height="40"/></a>
+<a href="https://www.ragstack.com/" target="_blank"><img src="https://img.shields.io/badge/RAGs-FF6600?style=for-the-badge&logo=python&logoColor=white" alt="RAGs" width="100" height="40"/></a>
+
+<!-- Tools / Others -->
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+</p>
