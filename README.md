@@ -53,4 +53,3 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadBilal018&show_icons=true&locale=en&layout=demo&theme=algolia"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%2300BFFF&size=26&duration=2500&center=true&vCenter=true&lines=Glad+to+see+you+here!;Thanks+For+Visiting!;)](https://git.io/typing-svg)
