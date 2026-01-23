@@ -30,7 +30,7 @@
 ## Languages and Tools
 
 <p align="left">
-<a href="https://www.python.org" target="_blank"><img src="assets/logos/python.png" alt="Python" width="50" height="50"/></a>
+<a href="https://www.python.org" target="_blank"><img src="assets/logos/download.png" alt="Python" width="50" height="50"/></a>
 <a href="https://crewai.com/" target="_blank"><img src="assets/logos/crewai-color.png" alt="Crewai" width="50" height="50"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="assets/logos/fastapi.png" alt="FastAPI" width="50" height="50"/></a>
 <a href="https://www.langchain.com/" target="_blank"><img src="assets/logos/langchain-color.png" alt="LangChain" width="50" height="50"/></a>
