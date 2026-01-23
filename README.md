@@ -30,26 +30,24 @@
 ## Languages and Tools
 
 <p align="left">
-<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
-<a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge&logo=python&logoColor=white" alt="LangChain"/></a>
-<a href="https://www.langgraph.com/" target="_blank"><img src="https://img.shields.io/badge/LangGraph-00AAFF?style=for-the-badge&logo=python&logoColor=white" alt="LangGraph"/></a>
-<a href="https://crewai.com/" target="_blank"><img src="https://img.shields.io/badge/Crewai-FF0066?style=for-the-badge&logo=python&logoColor=white" alt="Crewai"/></a>
-<a href="https://agentic.ai/" target="_blank"><img src="https://img.shields.io/badge/AgenticAI-0066FF?style=for-the-badge&logo=python&logoColor=white" alt="AgenticAI"/></a>
-<a href="https://chatbots.org/" target="_blank"><img src="https://img.shields.io/badge/Chatbots-00CC99?style=for-the-badge&logo=python&logoColor=white" alt="Chatbots"/></a>
-<a href="https://www.ragstack.com/" target="_blank"><img src="https://img.shields.io/badge/RAGs-FF6600?style=for-the-badge&logo=python&logoColor=white" alt="RAGs"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+<a href="https://www.python.org" target="_blank"><img src="assets/logos/python.png" alt="Python" width="50" height="50"/></a>
+<a href="https://crewai.com/" target="_blank"><img src="assets/logos/crewai-color.png" alt="Crewai" width="50" height="50"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="assets/logos/fastapi.png" alt="FastAPI" width="50" height="50"/></a>
+<a href="https://www.langchain.com/" target="_blank"><img src="assets/logos/langchain-color.png" alt="LangChain" width="50" height="50"/></a>
+<a href="https://www.langgraph.com/" target="_blank"><img src="assets/logos/langgraph-color.png" alt="LangGraph" width="50" height="50"/></a>
+<a href="https://www.ragstack.com/" target="_blank"><img src="assets/logos/1538298822.png" alt="RAGs" width="50" height="50"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
 </p>
 
 ---
 
-## Github Analytics
+## GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadBilal018&layout=compact&langs_count=8&theme=algolia"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadBilal018&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBilal018&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadBilal018&show_icons=true&theme=algolia&include_all_commits=true"/>
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadBilal018&show_icons=true&locale=en&layout=demo&theme=algolia"/>
 </p>
 
