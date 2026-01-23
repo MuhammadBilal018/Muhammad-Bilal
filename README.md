@@ -50,8 +50,8 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBilal018&layout=compact&langs_count=8&theme=algolia&hide=html,css,java"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadBilal018&show_icons=true&theme=algolia&include_all_commits=true"/>
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadBilal018&show_icons=true&locale=en&layout=demo&theme=algolia"/>
 </p>
+
 
 ---
 
