@@ -54,7 +54,10 @@
   <img src="https://img.shields.io/badge/FastAPI-Backend-lightgreen?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/LangChain-AI-purple?style=for-the-badge&logo=langchain" />
   <img src="https://img.shields.io/badge/Crewai-Voice-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAGs-Stack-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Chatbots-Interactive-orange?style=for-the-badge&logo=chatbot" />
+  <img src="https://img.shields.io/badge/NLP-Language-yellow?style=for-the-badge&logo=nlp" />
+  <img src="https://img.shields.io/badge/Deep_Learning-DL-red?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/RAGs-Retrieval-green?style=for-the-badge" />
 </p>
 
 ---
